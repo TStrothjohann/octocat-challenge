@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a copy of the repository. You can develop the project or some detail in a seperate branch and merge this branch later on into the original 'master' repo.
