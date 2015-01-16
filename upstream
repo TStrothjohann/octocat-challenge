@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+If developers work on open source projects, they usually fork it at first on GitHub. That means that they clone the projects repo into their own GitHub. Afterwards they clone their own fork to their local drive and start developing. To keep track of what's going on in the projects master development, they set up a second remote called upstream which is linked to the original project's repo. Upstream does not say I am streaming up but that I'm pulling changes from a repo 'up the stream'
