@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone copies a public repo to my working directory and inits it. The remote is set aswell. Changes can easily pushed to the origin by using 'git push'
